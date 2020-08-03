@@ -10,7 +10,7 @@ color: white;
 .banner {
 	background-image: url('images/bannerbaja.jpg');
   background-size: cover;
-  background-position: top;
+ 
   padding: 150px 0;
 }
 
